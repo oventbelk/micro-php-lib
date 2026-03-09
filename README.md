@@ -26,3 +26,8 @@ Feel free to contribute by opening issues or submitting pull requests.
 
 ## License
 This project is licensed under the MIT License.
+
+## Future Plans
+- Add more utility functions
+- Improve documentation
+- Include examples for usage
