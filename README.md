@@ -1,8 +1,28 @@
 # micro-php-lib
 Micro Php Lib - Built with ❤️
 
-## Support
+## Features
+- Lightweight PHP library
+- Easy integration
 
-If you encounter any issues or have questions, please [open an issue](../../issues).
+## Installation
+Use composer to install:
+```bash
+composer require your-vendor/micro-php-lib
+```
 
-For general discussions, feel free to start a discussion in the [Discussions](../../discussions) tab.
+## Usage
+```php
+require 'vendor/autoload.php';
+
+use YourVendor\name; // Adjust according to your namespace
+
+$lib = new name();
+$lib->function();
+```
+
+## Contributing
+Feel free to contribute by opening issues or submitting pull requests.
+
+## License
+This project is licensed under the MIT License.
